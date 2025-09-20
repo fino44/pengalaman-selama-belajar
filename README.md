@@ -1,1 +1,3 @@
-# pelajaran pthon
+# pelajaran python
+
+materi dan tugas
